@@ -11,17 +11,15 @@ $("body").ready(function(){
 var h1 = $("#main-title");
 
 	h1.click(function(){
-		$(this).innerHTML = " Bienvenido a queshow";
+		h1.html(" Bienvenido a queshow");
 	});
 
 
-	var esto = $(this);
+	
 
 
 
-	h1.click(function(){
-		$(this).toggleClass("sobre");
-	});
+	
 
 });
 
