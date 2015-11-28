@@ -1,3 +1,15 @@
+body{
+	margin: 0px;
+	background-color: #e7e5e7;
+	font-family: 'Helvetiva';
+}
+h1 {
+	text-align: center;
+	margin: 0px;
+	font-size: 40px;
+	color: #21252b;
+	padding: 20px 0px;
+}
 .sobre {
 	color: hotpink;
 	background:black;
