@@ -11,7 +11,7 @@ $("body").ready(function(){
 var h1 = $("#main-title");
 
 	h1.click(function(){
-		console.log("click");
+		$(this).innerHTML = " Bienvenido a queshow";
 	});
 
 
